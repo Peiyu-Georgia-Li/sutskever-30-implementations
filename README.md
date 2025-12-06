@@ -250,9 +250,9 @@ If you use these implementations in your work or teaching:
 ```bibtex
 @misc{sutskever30implementations,
   title={Sutskever 30: Complete Implementation Suite},
-  author={},
+  author={Paul "The Pageman" Pajo, pageman@gmail.com},
   year={2025},
-  note={Educational implementations of Ilya Sutskever's recommended reading list}
+  note={Educational implementations of Ilya Sutskever's recommended reading list, inspired by https://papercode.vercel.app/}
 }
 ```
 
