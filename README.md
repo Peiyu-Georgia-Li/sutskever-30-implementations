@@ -1,5 +1,7 @@
 # Sutskever 30 - Complete Implementation Suite
 
+**The 30 Papers**
+![Deep learning reading list from Ilya Sutskever](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 **Comprehensive toy implementations of the 30 foundational papers recommended by Ilya Sutskever**
 
 [![Implementations](https://img.shields.io/badge/Implementations-30%2F30-brightgreen)](https://github.com/pageman/sutskever-30-implementations)
